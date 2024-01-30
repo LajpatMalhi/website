@@ -16,6 +16,9 @@ def generate_cv(name, email, phone, education, experience, skills):
     - {experience}
 
     ## Skills
+
+
+    
     - {skills}
     """
     return cv
